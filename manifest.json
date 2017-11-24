@@ -25,15 +25,6 @@
   "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#3E4EB8",
-  "theme_color": "#2F3BA2",
-  "list":[{
-    "name": "新闻1",
-      "info": "我是新闻1新闻1新闻1新闻1新闻1新闻1新闻1新闻1新闻1",
-      "time": "2017-11-21"
-    }, {
-     "name": "新闻2",
-      "info": "我是新闻2新闻2新闻2新闻2新闻2新闻2新闻2新闻2新闻2",
-      "time": "2017-11-22"
-  }]
+  "theme_color": "#2F3BA2"
 }
 
