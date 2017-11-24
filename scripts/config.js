@@ -12,14 +12,6 @@ config.findQuotationList = config.server + 'findQuotationList';
 
 
 
-
-
-
-
-
-
-
-
 //  写进一个cookie 测试
 function setCookie(name, value) {
 	var Days = 30;
