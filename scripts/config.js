@@ -5,7 +5,7 @@ var config = {};
 //config.server = 'http://192.168.29.124:9090/mmglpt/m/';
 //config.server = 'http://192.168.29.90:8081/mmglpt/';
 
-config.server = 'anquangu.3tichina.com:80/safevalley/api/';
+config.server = 'http://anquangu.3tichina.com:80/safevalley/api/';
 
 //具体客户仓库列表
 config.findQuotationList = config.server + 'findQuotationList';
